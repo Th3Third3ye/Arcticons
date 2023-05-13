@@ -2404,6 +2404,9 @@
 
   <!-- BMO -->
   <item component="ComponentInfo{com.bmo.mobile/com.bmo.mobile.MainActivity}" drawable="bmo"/>
+  
+  <!-- BNA+ -->
+  <item component="ComponentInfo{com.banconacion.bnamas/com.banconacion.bnamas.VTCommonActivity}" drawable="bna_" />
 
   <!-- BNH BeMobile -->
   <item component="ComponentInfo{com.q2e.bankofnewhampshireandroid.bnhbemobile.uwnmobile/com.q2.app.core.ui.LauncherActivity}" drawable="bnh_bemobile"/>
@@ -4068,6 +4071,9 @@
 
   <!-- Cube Solver -->
   <item component="ComponentInfo{com.android.contacts/com.jeffprod.cubesolver.MainActivity}" drawable="cubesolver"/>
+  
+  <!-- Cuenta DNI -->
+  <item component="ComponentInfo{ar.com.bancoprovincia.CuentaDNI/ar.com.bancoprovincia.CuentaDNI.VTCommonActivity}" drawable="cuenta_dni" />
 
   <!-- Cuppa -->
   <item component="ComponentInfo{com.nathanatos.Cuppa/com.nathanatos.Cuppa.MainActivity}" drawable="cuppa"/>
@@ -7641,6 +7647,9 @@
 
   <!-- Honeygain -->
   <item component="ComponentInfo{com.honeygain.make.money/com.honeygain.app.ui.splash.SplashActivity}" drawable="honeygain"/>
+  
+  <!-- Honkai: Star Rail -->
+  <item component="ComponentInfo{com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity}" drawable="honkai_ star rail" />
 
   <!-- hoopla -->
   <item component="ComponentInfo{com.hoopladigital.android/com.hoopladigital.android.ui.activity.SplashScreenActivity}" drawable="hoopla"/>
